@@ -7,6 +7,7 @@ Hoonvas의 '혼자 공부하는 파이썬' 학습 저장소
 
 ## 📚 학습 바로가기 (Links)
 
+* [Chapter 01: 파이썬 시작하기](Self-Study-Python/chapter_01)
 * [Chapter 02: 자료형](Self-Study-Python/chapter_02)
 * [Chapter 03: 조건문](Self-Study-Python/chapter_03)
 * [Chapter 04: 반복문](Self-Study-Python/chapter_04)
